@@ -1,0 +1,17 @@
+/*page chantier*/
+/*paragraphe*/
+h1, h2, h3, p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.entreprise {
+    background-color: #3D4E8F;
+    color: white;
+    display: block;
+    width: 25vw;
+}
+
+.title {
+    font-size: 20px;
+    color: #3D4E8F;
+}
