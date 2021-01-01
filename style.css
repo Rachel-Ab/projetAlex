@@ -7,23 +7,23 @@ header {
     justify-content: space-between;
     background-color: #8D98C2;
     padding: 10px;
-    border: 10px solid #3D4E8F;
+    border: 1vw solid #3D4E8F;
     left: 0;
     right: 0;
     top: 0;
-    height: 20vh;
+    height: 10vw;
     padding: 0;
 }
 #logo {
-    height: 20vh;
+    height: 10vw;
 }
 #logo2 {
-    height: 20vh;
+    height: 10vw;
 }
 
 /*main*/
 main{
-    padding-top: 20vh;
+    padding-top: 15vw;
 }
 /*paragraphe*/
 h1, h2, h3, p{
