@@ -23,41 +23,68 @@ header {
 
 /*main*/
 main{
-    padding-top: 15vw;
+    padding-top: 10vw;
 }
-/*paragraphe*/
+/*paragraphe style*/
 h1, h2, h3, p{
     font-family: 'Open Sans', sans-serif;
 }
 
 .entreprise {
     background-color: #3D4E8F;
-    padding-right: 20%;
+    padding-right: 15%;
     color: white;
     display: block;
-    height: 10vw;
-    font-size: 3vw;
+    height: 8vw;
+    font-size: 2vw;
     margin-top: 20vw;
     margin-left: -15vw;
 }
 
 .title {
-    font-size: 20px;
+    font-size: 2vw;
     color: #3D4E8F;
     clear: both;
 }
+h2 {
+    font-size: 3vw;
+    color: #3D4E8F;
+}
+p {
+    font-size: 2vw;
+}
+
 /*mise en page photos*/
 #image1 {
-    height: 60vw;
+    height: 50vw;
     display: block;
-    
+    border: solid 5px black;
 }
 .container1 {
     display: flex;
 }
+
+.container2 {
+    display: block;
+    /* display: flex; */
+    /* flex-flow: column; */
+}
 #image2 {
-    height: 40vh;
+    display: block;
+    height: 30vw;
+    margin-left: 40vw;
+    margin-top: -30vw;
+    border: solid 5px black;
+}
+
+.container3 {
+    display: block;
 }
 #image3 {
-    height: 20vh;
+    display: block;
+    height: 20vw;
+    margin-left: 60vw;
+    margin-top: -20vw;
+    border: solid 5px black;
 }
+
